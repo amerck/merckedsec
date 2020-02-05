@@ -1,0 +1,8 @@
+site_name: merckedsec
+site_url: https://merckedsec.readthedocs.io
+theme: readthedocs
+docs_dir: docs
+nav:
+- Resources:
+    - Reverse Engineering: resources/reverse_engineering.md
+    - Games: resources/games.md
