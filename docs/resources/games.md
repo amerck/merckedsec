@@ -13,5 +13,7 @@
 
 ## STGs
 
+* [Full Extent of the Jam](https://goo.gl/Fi2zE) - Great guide on improving at Bullet Hells
+
 ### Battle Garegga
 * [Battle Garegga Guide](https://shmups.system11.org/viewtopic.php?t=351)

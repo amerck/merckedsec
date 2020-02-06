@@ -3,6 +3,8 @@ site_url: https://merckedsec.readthedocs.io
 theme: readthedocs
 docs_dir: docs
 nav:
+- Classes:
+    - Intro to Ethical Hacking: classes/intro_to_pentesting.md
 - Resources:
     - Reverse Engineering: resources/reverse_engineering.md
     - Games: resources/games.md
