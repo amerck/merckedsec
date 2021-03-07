@@ -4,7 +4,7 @@ theme: readthedocs
 docs_dir: docs
 nav:
 - Classes:
-    - Intro to Ethical Hacking: classes/intro_to_pentesting.md
+    - Intro to Ethical Hacking Workshop: classes/pentesting_workshop_2021.md
 - Resources:
     - Reverse Engineering: resources/reverse_engineering.md
     - Games: resources/games.md
