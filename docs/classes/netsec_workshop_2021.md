@@ -77,7 +77,7 @@ cat conn.log
 
 Compare this output to Wireshark.
 
-# Lab 4: Run Suricata and Zeek against your own pcaps
+## Lab 4: Run Suricata and Zeek against your own pcaps
 
 Capture your own network traffic using Wireshark. Save the file to your 'pcaps' directory.
 
