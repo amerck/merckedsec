@@ -5,6 +5,7 @@ docs_dir: docs
 nav:
 - Classes:
     - Intro to Ethical Hacking Workshop: classes/pentesting_workshop_2021.md
+    - Netsec Workshop: classes/netsec_workshop_2021.md
 - Resources:
     - Reverse Engineering: resources/reverse_engineering.md
     - Games: resources/games.md
